@@ -1,2 +1,0 @@
-rgb(188, 182, 182) gray
-#3d83df blue
