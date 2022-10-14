@@ -1,15 +1,8 @@
-#password {
-  position: relative;
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
-#show-btn {
-  position: absolute;
-  left: 66%;
-  top: 205px;
-}
-.msg {
-  background-color: green;
-  width: 30%;
-  margin: auto;
-  border-radius: 5px;
-  color: white;
+.sum-line {
+  border-top: 1px dotted black;
 }
