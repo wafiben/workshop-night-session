@@ -3,6 +3,13 @@
 }
 #show-btn {
   position: absolute;
-  left: 64%;
-  top: 200px;
+  left: 66%;
+  top: 205px;
+}
+.msg {
+  background-color: green;
+  width: 30%;
+  margin: auto;
+  border-radius: 5px;
+  color: white;
 }
